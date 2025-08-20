@@ -14,7 +14,7 @@
 - <h4>Random Story Generation</h4>
 - <h4>Multiple Prompts</h4>
 - <h4>Narrative Variations</h4>
-- <h4>Customise Length</h4>
+- <h4>Custom Length</h4>
 - <h4>Replayable Outputs</h4>
 
 
