@@ -20,7 +20,12 @@
 
 <h2>Technologies</h2>
 <a href="https://replit.com/@snow-adam/terminal-arena">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,github,replit">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,github,replit">
 </a>
 
 <h2>Screenshots</h2>
+<!--
+<a href="https://replit.com/@snow-adam/story-generator">
+  <img src="public/images/welcome-screenshot.png">
+</a>
+-->
