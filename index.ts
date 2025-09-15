@@ -1,1 +1,3 @@
-console.log("Welcome!");
+import { generateStory } from "./generator";
+
+console.log(generateStory());
