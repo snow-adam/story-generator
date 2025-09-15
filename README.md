@@ -1,7 +1,5 @@
 <h1>Story Generator</h1>
 
-<h2>[WORK IN PROGRESS]</h2>
-
 <h4>An interactive terminal application that generates random short stories with varying prompts and narrative structures.</h4><br>
 
 
@@ -12,9 +10,9 @@
 <h2>Features</h2>
 
 - <h4>Random Story Generation</h4>
-- <h4>Multiple Prompts</h4>
+- <h4>Multiple Prompts & Genres</h4>
 - <h4>Narrative Variations</h4>
-- <h4>Custom Length</h4>
+- <h4>Self-Contained Stories</h4>
 - <h4>Replayable Outputs</h4>
 
 
