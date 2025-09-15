@@ -22,8 +22,9 @@
 </a>
 
 <h2>Screenshots</h2>
-<!--
 <a href="https://replit.com/@snow-adam/story-generator">
-  <img src="public/images/welcome-screenshot.png">
+  <img src="public/images/fantasy-screenshot.png">
 </a>
--->
+<a href="https://replit.com/@snow-adam/story-generator">
+  <img src="public/images/mystery-screenshot.png">
+</a>
