@@ -12,8 +12,12 @@
 
 
 <h2>Technologies</h2>
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,github,replit">
+<a href="https://github.com/snow-adam/story-generator">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,github,replit">
+</a>
 
 <h2>Screenshots</h2>
-<img src="public/images/fantasy-screenshot.png">
-<img src="public/images/mystery-screenshot.png">
+<a href="https://github.com/snow-adam/story-generator">
+  <img src="public/images/fantasy-screenshot.png">
+  <img src="public/images/mystery-screenshot.png">
+</a>
