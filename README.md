@@ -12,14 +12,8 @@
 
 
 <h2>Technologies</h2>
-<a href="https://replit.com/@snow-adam/terminal-arena">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,github,replit">
-</a>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,github,replit">
 
 <h2>Screenshots</h2>
-<a href="https://replit.com/@snow-adam/story-generator">
-  <img src="public/images/fantasy-screenshot.png">
-</a>
-<a href="https://replit.com/@snow-adam/story-generator">
-  <img src="public/images/mystery-screenshot.png">
-</a>
+<img src="public/images/fantasy-screenshot.png">
+<img src="public/images/mystery-screenshot.png">
