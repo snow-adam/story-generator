@@ -1,11 +1,6 @@
 <h1>Story Generator</h1>
 
-<h4>An interactive terminal application that generates random short stories with varying prompts and narrative structures.</h4><br>
-
-
-<a href="https://replit.com/@snow-adam/story-generator">
-  <img src="https://replit.com/badge/github/snow-adam/story-generator">
-</a>
+<h4>An interactive terminal application that generates random short stories with varying prompts and narrative structures.</h4>
 
 <h2>Features</h2>
 
